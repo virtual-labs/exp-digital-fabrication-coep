@@ -1,0 +1,65 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "Digital fabrication is ---",
+      "answers": {
+        "a": "Flexible",
+        "b": "Decentralized",
+        "c": "Cheap",
+        "d": "All of these"
+      },
+      
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "In CutStudia we need ___ image to get cut out by vinyl cutter",
+      "answers": {
+        "a": "Filled Image",
+        "b": "Dark Image",
+        "c": "Outlined Image",
+        "d": ".png Image"
+      },
+      
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "To get image outlined press button ?",
+      "answers": {
+        "a": "Extract contour line Button",
+        "b": "Extract File",
+        "c": "Extract Folder",
+        "d": "Generate Outline"
+      },
+      
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Origin of program in CutStudio",
+      "answers": {
+        "a": "Left bottom corner",
+        "b": "Right bottom corner",
+        "c": "Upper left corner",
+        "d": "Upper right corner"
+      },
+      
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Import image into ___ Format",
+      "answers": {
+        "a": ".png",
+        "b": ".bmp",
+        "c": ".jpeg",
+        "d": ".gif"
+      },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    }
+  ]
+}

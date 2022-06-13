@@ -1,0 +1,17 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "Digital fabrication is",
+      "answers": {
+        "a": "Flexible",
+        "b": "Decentralized",
+        "c": "customizable",
+        "d": "All of these"
+      },
+      
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    }
+  ]
+}
