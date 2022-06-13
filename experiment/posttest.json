@@ -2,37 +2,63 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "Digital fabrication is ---",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Flexible",
+        "b": "Decentralized",
+        "c": "Cheap",
+        "d": "All of these"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "In CutStudia we need ___ image to get cut out by vinyl cutter",
+      "answers": {
+        "a": "Filled Image",
+        "b": "Dark Image",
+        "c": "Outlined Image",
+        "d": ".png Image"
       },
+      
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "To get image outlined press button ?",
+      "answers": {
+        "a": "Extract contour line Button",
+        "b": "Extract File",
+        "c": "Extract Folder",
+        "d": "Generate Outline"
+      },
+      
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "Origin of program in CutStudio",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Left bottom corner",
+        "b": "Right bottom corner",
+        "c": "Upper left corner",
+        "d": "Upper right corner"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Import image into ___ Format",
+      "answers": {
+        "a": ".png",
+        "b": ".bmp",
+        "c": ".jpeg",
+        "d": ".gif"
       },
-      "correctAnswer": "c",
+      
+      "correctAnswer": "b",
       "difficulty": "beginner"
     }
   ]
